@@ -165,22 +165,7 @@ Three-column responsive layout:
 
 Dark glassmorphism theme with smooth animations, loading states, and error handling for professional feel.
 
-## 📊 Evaluation Metrics
 
-Built for the TwinMind assignment evaluation criteria:
-- **Suggestion Quality**: Context-aware, varied, valuable previews
-- **Prompt Engineering**: Structured routing, controlled output, efficient context usage
-- **Full-Stack Engineering**: Clean architecture, error handling, responsive UI
-- **Code Quality**: TypeScript, reusable components, readable structure
-- **Latency**: Streaming for immediate feedback, optimized API calls
-- **Overall Experience**: Seamless real-time AI assistance
-
-## 🤝 Contributing
-
-This is a complete implementation of the TwinMind assignment. For evaluation:
-1. Deploy to Vercel/Netlify with public URL
-2. Test with real conversations
-3. Review code quality and prompt effectiveness
 
 ## 📄 License
 
